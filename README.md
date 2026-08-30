@@ -390,7 +390,7 @@ pip install -r requirements.txt
 
 # 🔐 Environment Variables
 
-Prism may require API credentials depending on the AI model configuration.
+Prism may require API credentials depending on the AI model configuration. (ie. llm API key ) 
 
 Create a file named:
 
