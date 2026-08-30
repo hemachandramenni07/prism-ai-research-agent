@@ -390,8 +390,8 @@ pip install -r requirements.txt
 
 # 🔐 Environment Variables
 
-Prism may require API credentials depending on the AI model configuration. (ie. llm API key ) 
-
+Prism may require API credentials depending on the AI model configuration. (i.e: llm API key ) 
+NOTE : In this AI agent Model I mainly used the Google Gemini i imported the gemini framework from langchain
 Create a file named:
 
 ```text
