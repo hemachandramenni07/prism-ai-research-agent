@@ -19,6 +19,8 @@ class ResearchResponse(BaseModel):
 # LLM
 llm = ChatGoogleGenerativeAI(model="gemini-3.5-flash-lite",max_output_tokens=12000) # change the number of tokens as per your model and subscription with the usage...
 
+# this is prompt: you can change it according to the research you want to do . 
+# just copy this prompt and ask any LLM to generate as you desired.
 system_prompt = """
 You are an expert research assistant.
 
