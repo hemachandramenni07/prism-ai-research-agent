@@ -554,8 +554,6 @@ git push origin feature/my-feature
 
 This project currently does not include a specific open-source license.
 
-If you decide to make Prism open source, consider adding an appropriate license such as the MIT License.
-
 ---
 
 # 👨‍💻 Author
