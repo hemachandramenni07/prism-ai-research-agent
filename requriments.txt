@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-google-genai
+wikipedia
+python-dotenv
+pydantic
+ddgs
+streamlit
