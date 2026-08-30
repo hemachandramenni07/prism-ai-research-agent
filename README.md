@@ -406,12 +406,6 @@ Add the required API key according to your implementation:
 API_KEY="your_api_key_here"
 ```
 
-> ⚠️ Never upload your `.env` file or expose your API keys publicly.
-
-The repository includes `.gitignore` rules to prevent sensitive environment files from being committed.
-
----
-
 # ▶️ Running Prism
 
 After activating the virtual environment and installing the dependencies, run:
